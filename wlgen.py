@@ -21,6 +21,7 @@ def main(args: argparse.Namespace) -> int:
     else:
         print(''.join([''.join(word) + '\n' for word in product(words, repeat=depth)]))
     
+    print("Successfully generated " + str(len(words)**depth) + " possible matches.")
     return 0
 
 if __name__ == "__main__":
