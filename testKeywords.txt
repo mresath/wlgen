@@ -1,0 +1,10 @@
+hello
+mom
+dad
+cat
+dog
+rain
+snow
+sun
+happy
+sad
