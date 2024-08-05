@@ -5,7 +5,7 @@
 ## Usage
 
 ```
-$ python3.10 wlgen [-h] [-o OUTPUT] [-d DEPTH] file
+$ python3 wlgen [-h] [-o OUTPUT] [-d DEPTH] file
 
 positional arguments:
   file                  File containing a list of keywords.
